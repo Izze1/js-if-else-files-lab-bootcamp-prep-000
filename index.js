@@ -10,3 +10,4 @@ if (name === "Joe") {
   console.log("The name is correct")
 } else {
   console.log("The name is correct")
+}
